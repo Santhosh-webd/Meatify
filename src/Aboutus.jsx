@@ -22,7 +22,7 @@ export const Aboutus = ({setHeaddesign}) => {
       </div>
       <div className="aboutusmainsec">
         <div className='child1aboutus'>
-          {/* <img src={aboutusgif} alt="" width="100%" />*/}
+          <img src={aboutusgif} alt="" width="100%" />
         </div>
         <div className='child2aboutus'>
           <h3>Our Story</h3>
